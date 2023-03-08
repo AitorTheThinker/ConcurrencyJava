@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author aitor
- *
- */
-module ConcurrencyJava {
-}
